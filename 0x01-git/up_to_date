@@ -1,4 +1,4 @@
-git clone
+git pull
 cd alx-pre_course
 cd 0x01-git
 touch up_to_date
